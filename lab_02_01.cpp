@@ -14,7 +14,7 @@ int main(){
     cout << "Input your number here: "; cin >> a;
     // z1 = (1 - 2 * pow(sin(a), 2))/(1 + sin(2) * a); // рішення першого прикладу
     cout << "Your answer for the first function is: " << z1 << endl;
-    z2 = (1 - tan(a))/(1+tan(a)); // рішення другого прикладу
+    // z2 = (1 - tan(a))/(1+tan(a)); // рішення другого прикладу
     cout << "Your answer for the second function is: " << z2 << endl;
     return 0;
 }
